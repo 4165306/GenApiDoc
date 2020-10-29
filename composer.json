@@ -1,0 +1,16 @@
+{
+    "name": "zhuerchong/gen-api-doc",
+    "description": "this is php api doc gen",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yiyouheng",
+            "email": "4165306@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "PHP": ">=7.4"
+    }
+}
